@@ -1,0 +1,44 @@
+{
+  "resnet18_original": {
+    "accuracy": 0.94,
+    "precision": 0,
+    "recall": 0,
+    "f1_score": 0,
+    "dataset": "original"
+  },
+  "efficientnet_original": {
+    "accuracy": 0.9783333333333334,
+    "precision": 0,
+    "recall": 0,
+    "f1_score": 0,
+    "dataset": "original"
+  },
+  "convnet_original": {
+    "accuracy": 0.73,
+    "precision": 0,
+    "recall": 0,
+    "f1_score": 0,
+    "dataset": "original"
+  },
+  "resnet18_augmented": {
+    "accuracy": 0.9555555555555556,
+    "precision": 0,
+    "recall": 0,
+    "f1_score": 0,
+    "dataset": "augmented"
+  },
+  "efficientnet_augmented": {
+    "accuracy": 0.97,
+    "precision": 0,
+    "recall": 0,
+    "f1_score": 0,
+    "dataset": "augmented"
+  },
+  "convnet_augmented": {
+    "accuracy": 0.8055555555555556,
+    "precision": 0,
+    "recall": 0,
+    "f1_score": 0,
+    "dataset": "augmented"
+  }
+}
